@@ -67,3 +67,4 @@
 ## tinymce-vue
 
 tinymce 官方也在之前发布了 vue 版本的[tinymce-vue](https://github.com/tinymce/tinymce-vue)，帮你封装好了很多东西，但同时也相对的减少了灵活性，有兴趣的可以自行研究一下。
+我想研究一下GitHub
